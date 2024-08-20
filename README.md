@@ -2,6 +2,13 @@
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://telegram.dog/rishavdevkr)
 
+## Deploy To Google Colab
+
+<a href="https://colab.research.google.com/github/AshutoshGoswami24/text-leech-bot/blob/main/text_leech_bot" target="_blank">
+  <img src="https://ashutoshgoswami24.github.io/Me/img/gc.png" alt="Deploy To Google Colab" style="width:150px;"/>
+</a>
+
+
 ## How to Deploy? 🤔. you can deploy over Heroku or your VPS too.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NARUJAT/DRM-Bot-2)
 
